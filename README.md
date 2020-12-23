@@ -1,2 +1,2 @@
 # web-server
-Just a simple web-server developed using just Java
+Simple web-server developed using just Java
